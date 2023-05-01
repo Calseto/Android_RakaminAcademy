@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.e.homework_3.app-mergeDebugResources-28:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\7.3.3\\com.e.homework_3.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.e.homework_3.app-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "com.e.homework_3.app-main-31:/layout/activity_main.xml"
+    }
+]
